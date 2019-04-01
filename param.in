@@ -1,0 +1,4 @@
+mutation=0.1
+crossover=1
+populationSize=40
+iterations=100
